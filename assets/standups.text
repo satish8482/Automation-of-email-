@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<title>Standup Bot by So Fetch</title>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<link rel="stylesheet" media="all" href="application-dd2ee1942393379d92ba36c2e5b02d814c6a6ffc091cc0b60c64b6d42cfd4bfb.css" />
+<script src="application-68186a1686708ecedd55f9bb5712d4780c825c0e7355faa0b994bf20bfd378bd.js" data-turbolinks-track="true"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FWM1rXW1oJ7xCmYohxBYFm9rocpLPrqsi9etCLwr2qi8X+6h3ZKPNZRokVO3mHWEFfNaFQhs98qn3678qyB9MA==" />
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+</head>
+</html>
+<body>
+<div class='wrapper'>
+<div class='colors-3'>
+<nav class='navbar navbar-fixed-top'>
+<div class='container'>
+<a class="navbar-brand align-center" href="/"><img src="standup_bot_logo-6b03627016edc14e04354a16d50702e1354f8e8783b8b65050b71fb15d0fb35d.png" alt="Standup bot logo 6b03627016edc14e04354a16d50702e1354f8e8783b8b65050b71fb15d0fb35d" />
+</a><div class='collapse navbar-collapse'>
+<ul class='nav navbar-nav navbar-right'>
+<li class='dropdown'>
+<a aria-expanded='false' aria-haspopup='true' class='dropdown-toggle' data-toggle='dropdown' href='#' role='button'>
+Manage
+<span class='caret'></span>
+</a>
+<ul class='dropdown-menu'>
+<li>
+<a href='/users'>Users</a>
+</li>
+<li class='divider' role='separator'></li>
+<li>
+<a href='/settings'>Settings</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div class='container main-content'>
+<h2>
+<b>#meetings</b>
+</h2>
+<br>
+<div class='row standup-date'>
+<div class='col-md-6 date'>
+<h2>
+<b>Friday</b>
+02
+Feb
+</h2>
+</div>
+<div class='col-md-6 date-picker'>
+<a class='previous-date'>
+<a href="https://agile-standup-bot.herokuapp.com/channels/2/standups?date=2018-02-01">Previous Day</a>
+</a>
+|
+<a class='not-active'>Today</a>
+</div>
+</div>
+<div class='masonry-container row clearfix'>
+<div class='col-md-4 standup-card item'>
+<div class='standup-card-wrap'>
+<div class='name-section section clearfix'>
+<div class='row'>
+<div class='col-lg-3 avatar'>
+<img src="https://avatars.slack-edge.com/2016-07-15/60099531927_fec09cd1cde3f019ff94_72.gif" alt="60099531927 fec09cd1cde3f019ff94 72" />
+</div>
+<div class='col-lg-9'>
+<h2>
+Mithra k
+</h2>
+</div>
+</div>
+</div>
+<div class='yesterday-section section'>
+<h2>What I worked on yesterday:</h2>
+<ul>
+<li>Explored react native courses</li>
+</ul>
+</div>
+<div class='today-section section'>
+<h2>What I am working on today:</h2>
+<ul>
+<li>Will start learning react native and will do courses from fresco play</li>
+</ul>
+</div>
+<div class='blocks-section section'>
+<h2>Anything in my way:</h2>
+<ul>
+<li>No</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='col-md-4 standup-card item'>
+<div class='standup-card-wrap'>
+<div class='name-section section clearfix'>
+<div class='row'>
+<div class='col-lg-3 avatar'>
+<img src="https://avatars.slack-edge.com/2017-08-21/229248182514_8a3e99d47d12d4c037bd_72.jpg" alt="229248182514 8a3e99d47d12d4c037bd 72" />
+</div>
+<div class='col-lg-9'>
+<h2>
+Satish Matapati
+</h2>
+</div>
+</div>
+</div>
+<div class='yesterday-section section'>
+<h2>What I worked on yesterday:</h2>
+<ul>
+<li>Worked on converting html file to text file for sending mail.</li>
+</ul>
+</div>
+<div class='today-section section'>
+<h2>What I am working on today:</h2>
+<ul>
+<li>Need to work on email body to include text file</li>
+</ul>
+</div>
+<div class='blocks-section section'>
+<h2>Anything in my way:</h2>
+<ul>
+<li>No</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='col-md-4 standup-card item'>
+<div class='standup-card-wrap'>
+<div class='name-section section clearfix'>
+<div class='row'>
+<div class='col-lg-3 avatar'>
+<img src="https://avatars.slack-edge.com/2017-08-21/230323048359_27816056b392745f553d_72.jpg" alt="230323048359 27816056b392745f553d 72" />
+</div>
+<div class='col-lg-9'>
+<h2>
+BangaruBabu Pureti
+</h2>
+</div>
+</div>
+</div>
+<div class='yesterday-section section'>
+<h2>What I worked on yesterday:</h2>
+<ul>
+<li>Nothing more except a call</li>
+</ul>
+</div>
+<div class='today-section section'>
+<h2>What I am working on today:</h2>
+<ul>
+<li>Need to Set POC plan </li>
+</ul>
+</div>
+<div class='blocks-section section'>
+<h2>Anything in my way:</h2>
+<ul>
+<li>Yes </li>
+</ul>
+</div>
+</div>
+</div>
+<div class='col-md-4 standup-card item'>
+<div class='standup-card-wrap'>
+<div class='name-section section clearfix'>
+<div class='row'>
+<div class='col-lg-3 avatar'>
+<img src="https://secure.gravatar.com/avatar/8a8e1888043f03b2f5e739273de35aa4.jpg?s=72&amp;d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0016-72.png" alt="8a8e1888043f03b2f5e739273de35aa4.jpg?s=72&amp;d=https%3a%2f%2fa.slack edge.com%2f66f9%2fimg%2favatars%2fava 0016 72" />
+</div>
+<div class='col-lg-9'>
+<h2>
+Divya Pothu
+</h2>
+</div>
+</div>
+</div>
+<div class='yesterday-section section'>
+<h2>What I worked on yesterday:</h2>
+<ul>
+<li>Worked on converting html file to text using mime types</li>
+</ul>
+</div>
+<div class='today-section section'>
+<h2>What I am working on today:</h2>
+<ul>
+<li>Will be working on email body .</li>
+</ul>
+</div>
+<div class='blocks-section section'>
+<h2>Anything in my way:</h2>
+<ul>
+<li>No</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<footer class='footer container'>
+<p class='text-muted'>
+Made by
+<a href="http://www.sofetch.io">So Fetch.</a>
+<img src="sf_logo_standup_bot-ce528b85fea8e439a3eb6047dc5ad20ed15178cee4b07034288a0b8333f8dd82.png" alt="Sf logo standup bot ce528b85fea8e439a3eb6047dc5ad20ed15178cee4b07034288a0b8333f8dd82" />
+</p>
+</footer>
+</body>
